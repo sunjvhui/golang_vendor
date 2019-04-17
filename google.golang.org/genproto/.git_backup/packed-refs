@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+42f80515abfed431577ebeded4ab86390ce0a5cd refs/remotes/origin/jba-regen
+8b5d7a19e2d98fbad9aaf9c599776bf066d7c70f refs/remotes/origin/master
+90b0afc75da989590cd8c89872df744e4933605c refs/remotes/origin/revert-80-regen3

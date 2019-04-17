@@ -1,0 +1,9 @@
+db425313bfa86d78ce81b07d8898e0f9723e0ecd		branch 'master' of https://github.com/shirou/gopsutil
+3499dec5c013d054d5d2a99ec48345998034e841	not-for-merge	branch 'add_cpu_feature' of https://github.com/shirou/gopsutil
+16846b760611fa0c18400be1a92c1c256287e07c	not-for-merge	branch 'feature/ppc64' of https://github.com/shirou/gopsutil
+cdcb9bb2ed169f0881aaef9e05f9930c52cdb5a1	not-for-merge	branch 'fix_352' of https://github.com/shirou/gopsutil
+37d89088411de59a4ef9fc340afa0e89dfcb4ea9	not-for-merge	branch 'v1' of https://github.com/shirou/gopsutil
+22a03b5be3f384f558742929065778aa26471033	not-for-merge	branch 'v2' of https://github.com/shirou/gopsutil
+3ec50d2876a36047b2ca39f955ba88fb7a455e92	not-for-merge	tag 'v2.18.10' of https://github.com/shirou/gopsutil
+0f70a4a06f7a1039305ec9b3ba9c2800f8929fba	not-for-merge	tag 'v2.18.11' of https://github.com/shirou/gopsutil
+ccc1c1016bc5d10e803189ee43417c50cdde7f1b	not-for-merge	tag 'v2.18.12' of https://github.com/shirou/gopsutil

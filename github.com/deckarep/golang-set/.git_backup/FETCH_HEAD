@@ -1,0 +1,9 @@
+699df6a3acf6867538e50931511e9dc403da108a		branch 'master' of https://github.com/deckarep/golang-set
+cb0f34a24acf6a46929397250033e6e2c0d2439d	not-for-merge	branch 'add-locking-to-new-functions' of https://github.com/deckarep/golang-set
+f0cd1a31732a4eef0699071af6212597f86f6172	not-for-merge	branch 'adds-pop-method' of https://github.com/deckarep/golang-set
+3ad4b813483e3d56c64762cf167f5f2bb8943583	not-for-merge	branch 'adds-with-size-constructors-and-optimizes-clone' of https://github.com/deckarep/golang-set
+3762f608edb321a96fb5c1db310238a41bd12fe1	not-for-merge	branch 'deckarep-patch-1' of https://github.com/deckarep/golang-set
+2bce5cd01aed671065da737c06554788c3f253ba	not-for-merge	branch 'fix-deadlock' of https://github.com/deckarep/golang-set
+0139b4402072c28362943ba8f98a272046385a60	not-for-merge	branch 'fix-symmetric-difference-unsafe' of https://github.com/deckarep/golang-set
+a47226690ca1f2d7f5b02a3b6b1c1511694405ef	not-for-merge	branch 'gh-pages' of https://github.com/deckarep/golang-set
+2c1128300ea02f0311bc0d373bb791d6ba8374c2	not-for-merge	branch 'update_build' of https://github.com/deckarep/golang-set

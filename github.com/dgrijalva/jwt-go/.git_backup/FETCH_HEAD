@@ -1,0 +1,5 @@
+3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8		branch 'master' of https://github.com/dgrijalva/jwt-go
+aaadee58366a7aa12d9e79fbb011943b3a9057f5	not-for-merge	branch 'dg/cmd_args' of https://github.com/dgrijalva/jwt-go
+bd64a96dce212bbcda0936537292c3aa80c64461	not-for-merge	branch 'dg/validation_opts' of https://github.com/dgrijalva/jwt-go
+d8c133f5585dd19433ae7a9849ea7f615b30e134	not-for-merge	branch 'release_3_0_0' of https://github.com/dgrijalva/jwt-go
+3c771ce311b7f51c2fa84ef4438cce09c9984444	not-for-merge	branch 'release_4_0_0' of https://github.com/dgrijalva/jwt-go

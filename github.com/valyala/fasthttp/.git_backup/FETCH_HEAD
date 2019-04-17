@@ -1,0 +1,3 @@
+517df8833274a3bf8c1377ceec64a8f131876cb7		branch 'master' of https://github.com/valyala/fasthttp
+24e979c815362b3a3d5b8214f0481a160a015808	not-for-merge	branch 'feature/keep_hijacked_connections' of https://github.com/valyala/fasthttp
+64c234a44a88f55d407ef163597bd4ad5e9d53c3	not-for-merge	branch 'hotfix/548-request-was-not-reset-before-release' of https://github.com/valyala/fasthttp

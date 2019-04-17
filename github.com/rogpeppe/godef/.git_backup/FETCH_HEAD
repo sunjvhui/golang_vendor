@@ -1,0 +1,13 @@
+5784335da72394c8f53d9036c26fcc876718879b		branch 'master' of https://github.com/rogpeppe/godef
+3cfabb7be255db2d88f32243eca348a65216785d	not-for-merge	branch '001-more-tests' of https://github.com/rogpeppe/godef
+b4a9b7e9c4df901fcdfba67ff6e628c0d73f5e4e	not-for-merge	branch '002-fix-tests' of https://github.com/rogpeppe/godef
+481c2b5b45c879f4b89ea70e0e6e94435a330646	not-for-merge	branch '003-fix' of https://github.com/rogpeppe/godef
+efce0e524c6dcb6acd1f608699d9253fbb7e4fe4	not-for-merge	branch '004-fix-local-expression' of https://github.com/rogpeppe/godef
+d71254007f27b412bfff94296d064be74c84b42a	not-for-merge	branch '006-vendor-support' of https://github.com/rogpeppe/godef
+99cc3e343093d65a754042034bd662be97269efa	not-for-merge	branch '007-proper-import-names' of https://github.com/rogpeppe/godef
+c3c985a9156404b8ee9fc4993d9e537c5d64d4ec	not-for-merge	branch '008-vendor-9fans' of https://github.com/rogpeppe/godef
+4170debb52d9bcf18b64c9e151c2be5cc453ff86	not-for-merge	branch '009-oops' of https://github.com/rogpeppe/godef
+21b69deed6a2824382d921b39b26922dca82dfa4	not-for-merge	branch '010-unused-gopath' of https://github.com/rogpeppe/godef
+61df2033f3f208fc8862c5dbe2cf53a069f6ae5c	not-for-merge	branch '011-fix-net-definitions' of https://github.com/rogpeppe/godef
+21c8400091537fc2d70465212656f6df82156811	not-for-merge	branch '013-type-alias' of https://github.com/rogpeppe/godef
+011409bfb4e7265521cf101ed974e1a028672f5a	not-for-merge	branch '014-go.mod' of https://github.com/rogpeppe/godef

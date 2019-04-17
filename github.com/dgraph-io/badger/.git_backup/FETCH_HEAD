@@ -1,0 +1,6 @@
+a7db8195d90af472130f03e46a00ba0b5b9c2cf0		branch 'master' of https://github.com/dgraph-io/badger
+bb8934a8870a7be03722022fa3b535ba26346c42	not-for-merge	branch 'gitlw/support_managed_and_unmanaged_batches' of https://github.com/dgraph-io/badger
+339c29c1c67186715d62409cc227f00b9bc21cf8	not-for-merge	branch 'martinmr/db-logger' of https://github.com/dgraph-io/badger
+384258c8fa982d2dd1445d6cc60648b69409480f	not-for-merge	branch 'mrjn/debug' of https://github.com/dgraph-io/badger
+c92fa1901fc6ffcfbd2dcc520b30929f331c69ab	not-for-merge	branch 'mrjn/merge' of https://github.com/dgraph-io/badger
+69611218c7078be6de16f4ea13fb256e701b6b73	not-for-merge	branch 'release/v1.3.0' of https://github.com/dgraph-io/badger

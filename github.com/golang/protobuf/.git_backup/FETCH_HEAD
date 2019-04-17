@@ -1,0 +1,5 @@
+d3c38a4eb4970272b87a425ae00ccc4548e2f9bb		branch 'master' of https://github.com/golang/protobuf
+be03c15fcaa227d4af8e81c350160fe65984a50a	not-for-merge	branch 'api-v1' of https://github.com/golang/protobuf
+9d19e5c4322bbb153bdd1c1ad755909e73743da0	not-for-merge	branch 'api-v2' of https://github.com/golang/protobuf
+03b73243717400f83562f1f944edc5f34215c927	not-for-merge	branch 'dev' of https://github.com/golang/protobuf
+4fb8cde2eb8b7ccc7dbdbcd540a4378ff32a57f6	not-for-merge	branch 'trybot-travis' of https://github.com/golang/protobuf

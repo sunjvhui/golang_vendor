@@ -1,0 +1,4 @@
+1d462bbe3713bc2fea40ed45c80a06ce856d379f		branch 'master' of https://github.com/gin-gonic/gin
+1abc373affbecd6f3bfcdf34f6da03435acdb0a5	not-for-merge	branch 'benchmarks' of https://github.com/gin-gonic/gin
+784d73477d056308e8c6ea666d52048906e48a7c	not-for-merge	branch 'better-bind-errors' of https://github.com/gin-gonic/gin
+42e0c82bf4f243ea7342bd9e8baeb76882fc63d4	not-for-merge	branch 'new-catch-all' of https://github.com/gin-gonic/gin

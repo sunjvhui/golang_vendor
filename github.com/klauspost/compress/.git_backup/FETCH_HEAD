@@ -1,0 +1,10 @@
+30be6041bed523c18e269a700ebd9c2ea9328574		branch 'master' of https://github.com/klauspost/compress
+0960fac4e0eb1076e7300e122510405a637709c8	not-for-merge	branch 'abandoned_double_read' of https://github.com/klauspost/compress
+8c2be2bca3611116cd0e5e37a45546ed1a629ce3	not-for-merge	branch 'add-fse-stream' of https://github.com/klauspost/compress
+3a22e98dcb6f357a0864db787c38ffefcb6309eb	not-for-merge	branch 'backport_go17_changes' of https://github.com/klauspost/compress
+20b7ae158f7f903cc7a0fc00a57e4f7a720defba	not-for-merge	branch 'bitwriter-improvements' of https://github.com/klauspost/compress
+7d8303195e1a78f7d0403ba8f65efe09fdc8c581	not-for-merge	branch 'early-token-stats' of https://github.com/klauspost/compress
+c4895697a098ea3a70b2bf56a347634a28da2fc2	not-for-merge	branch 'experiment-reusing-encoding' of https://github.com/klauspost/compress
+4eecc56808a5732c47f6f05d67337ff3726b7bb6	not-for-merge	branch 'leaner-fast-encoder' of https://github.com/klauspost/compress
+4c1d1e21eed71a92123ccf4d9cc9e33e99c41343	not-for-merge	branch 'write-eof-at-once' of https://github.com/klauspost/compress
+4d5c1e37bb150f453309c393cccbad6a9858ade2	not-for-merge	branch 'zstd-decoder' of https://github.com/klauspost/compress

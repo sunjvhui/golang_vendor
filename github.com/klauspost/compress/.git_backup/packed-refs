@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+0960fac4e0eb1076e7300e122510405a637709c8 refs/remotes/origin/abandoned_double_read
+8c2be2bca3611116cd0e5e37a45546ed1a629ce3 refs/remotes/origin/add-fse-stream
+3a22e98dcb6f357a0864db787c38ffefcb6309eb refs/remotes/origin/backport_go17_changes
+20b7ae158f7f903cc7a0fc00a57e4f7a720defba refs/remotes/origin/bitwriter-improvements
+7d8303195e1a78f7d0403ba8f65efe09fdc8c581 refs/remotes/origin/early-token-stats
+c4895697a098ea3a70b2bf56a347634a28da2fc2 refs/remotes/origin/experiment-reusing-encoding
+4eecc56808a5732c47f6f05d67337ff3726b7bb6 refs/remotes/origin/leaner-fast-encoder
+b50017755d442260d792c34c7c43216d9ba7ffc7 refs/remotes/origin/master
+f9f4e67df3621a5d8c8927d4af3a4b004aab17b4 refs/remotes/origin/merge-go1-11-inflate-optimizations
+4c1d1e21eed71a92123ccf4d9cc9e33e99c41343 refs/remotes/origin/write-eof-at-once
+4759e62bfc049be3d361bdf289d0edd8c814a14e refs/remotes/origin/zstd-decoder
+006acde2c5d283d2f8b8aa03d8f0cd2891c680cf refs/tags/v1.0
+8df558b6cb6f9b445f9586446cfe7223e7d8bd6b refs/tags/v1.1
+e3b7981a12dd3cab49afa1d3a50e715846f23732 refs/tags/v1.2
+6c8db69c4b49dd4df1fff66996cf556176d0b9bf refs/tags/v1.2.1
+4fbb95ebb8d93cf63e970b70f69d206f14b5bc85 refs/tags/v1.3.0
+^5fb1f31b0a61e9858f12f39266e059848a5f1cea
+85acbf45ee6b4bf41d4c5f1587f80df51a5cbb98 refs/tags/v1.4.0
+^b939724e787a27c0005cabe3f78e7ed7987ac74f

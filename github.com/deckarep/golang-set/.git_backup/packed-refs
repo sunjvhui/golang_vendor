@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+cb0f34a24acf6a46929397250033e6e2c0d2439d refs/remotes/origin/add-locking-to-new-functions
+f0cd1a31732a4eef0699071af6212597f86f6172 refs/remotes/origin/adds-pop-method
+3ad4b813483e3d56c64762cf167f5f2bb8943583 refs/remotes/origin/adds-with-size-constructors-and-optimizes-clone
+3762f608edb321a96fb5c1db310238a41bd12fe1 refs/remotes/origin/deckarep-patch-1
+2bce5cd01aed671065da737c06554788c3f253ba refs/remotes/origin/fix-deadlock
+0139b4402072c28362943ba8f98a272046385a60 refs/remotes/origin/fix-symmetric-difference-unsafe
+a47226690ca1f2d7f5b02a3b6b1c1511694405ef refs/remotes/origin/gh-pages
+699df6a3acf6867538e50931511e9dc403da108a refs/remotes/origin/master
+2c1128300ea02f0311bc0d373bb791d6ba8374c2 refs/remotes/origin/update_build
+5504161cdd70d45b80bc11ae44a20f5ab1cce445 refs/tags/v1
+52ba7f28f319e9d560acbf47c7fcf9b9ee7aa7d3 refs/tags/v1.5
+fc8930a5e645572ee00bf66358ed3414f3c13b90 refs/tags/v1.6
+1d4478f51bed434f1dadf96dcd9b43aabac66795 refs/tags/v1.7
+cbaa98ba5575e67703b32b4b19f73c91f3c4159e refs/tags/v1.7.1

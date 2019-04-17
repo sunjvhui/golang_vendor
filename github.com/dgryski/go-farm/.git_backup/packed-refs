@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+0c32befb75e3fe0968c829166c16f5e8233d7881 refs/remotes/origin/hash64test
+2de33835d10275975374b37b2dcfd22c9020a1f5 refs/remotes/origin/master

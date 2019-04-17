@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+3cfabb7be255db2d88f32243eca348a65216785d refs/remotes/origin/001-more-tests
+b4a9b7e9c4df901fcdfba67ff6e628c0d73f5e4e refs/remotes/origin/002-fix-tests
+481c2b5b45c879f4b89ea70e0e6e94435a330646 refs/remotes/origin/003-fix
+efce0e524c6dcb6acd1f608699d9253fbb7e4fe4 refs/remotes/origin/004-fix-local-expression
+d71254007f27b412bfff94296d064be74c84b42a refs/remotes/origin/006-vendor-support
+99cc3e343093d65a754042034bd662be97269efa refs/remotes/origin/007-proper-import-names
+c3c985a9156404b8ee9fc4993d9e537c5d64d4ec refs/remotes/origin/008-vendor-9fans
+4170debb52d9bcf18b64c9e151c2be5cc453ff86 refs/remotes/origin/009-oops
+21b69deed6a2824382d921b39b26922dca82dfa4 refs/remotes/origin/010-unused-gopath
+61df2033f3f208fc8862c5dbe2cf53a069f6ae5c refs/remotes/origin/011-fix-net-definitions
+21c8400091537fc2d70465212656f6df82156811 refs/remotes/origin/013-type-alias
+011409bfb4e7265521cf101ed974e1a028672f5a refs/remotes/origin/014-go.mod
+5784335da72394c8f53d9036c26fcc876718879b refs/remotes/origin/master
+952ba09c9b35c54c74f861c301088650c92273ad refs/tags/v1.0.0
+^7b4626be9fa8081987905fd4719d2f6628f9d8b5
+0382f25933716055c65485b3d127be067bd67870 refs/tags/v1.1.0
+5784335da72394c8f53d9036c26fcc876718879b refs/tags/v1.1.1
+158f8086709f366c40ebc86111fc206519643e47 refs/tags/working-alt

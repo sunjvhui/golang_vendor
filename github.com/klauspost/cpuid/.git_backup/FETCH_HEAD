@@ -1,0 +1,3 @@
+0da02118eaa37aa89aea6776b464a4ad00990af1		branch 'master' of https://github.com/klauspost/cpuid
+9374f1aa7a498c1153a7c3d53817573799c37528	not-for-merge	branch 'disable-gccgo-build' of https://github.com/klauspost/cpuid
+27e68e2dd28188c5cb0a6decde7420b2935277f3	not-for-merge	branch 'zero-ecx-always' of https://github.com/klauspost/cpuid

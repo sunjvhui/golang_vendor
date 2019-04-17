@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+9374f1aa7a498c1153a7c3d53817573799c37528 refs/remotes/origin/disable-gccgo-build
+e7e905edc00ea8827e58662220139109efea09db refs/remotes/origin/master
+27e68e2dd28188c5cb0a6decde7420b2935277f3 refs/remotes/origin/zero-ecx-always
+09cded8978dc9e80714c4d85b0322337b0a1e5e0 refs/tags/v1.0
+a5af2ebcfc82d00c7f6412eefe571b04255c6eed refs/tags/v1.1
+^ae7887de9fa5d2db4eaa8174a7eff2c1ac00f2da
